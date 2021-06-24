@@ -100,7 +100,7 @@ int main(int argc, char* argv[])
     }
 
     std::vector<std::pair<std::string, std::function<void(int*, int*)>>> sorts{
-        { "直接折入排序", Sort::straight_insertion_sort },
+        { "直接插入排序", Sort::straight_insertion_sort },
         { "折半插入排序", Sort::binary_insertion_sort },
         { "二路插入排序", Sort::two_way_insertion_sort },
         { "希尔排序",   Sort::shell_sort },
