@@ -1,4 +1,6 @@
 
-cmake-build-debug
-.idea
-*.txt
+.DS_Store
+/sort
+/*.txt
+/cmake-build-debug/
+/.idea/
