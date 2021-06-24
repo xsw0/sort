@@ -1,4 +1,3 @@
-// main.cpp
 #include <random>
 #include <filesystem>
 #include <sstream>

@@ -1,4 +1,3 @@
-// Sort.h
 #ifndef SORT_SORT_H
 #define SORT_SORT_H
 

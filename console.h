@@ -1,4 +1,3 @@
-// console.h
 #ifndef SORT_CONSOLE_H
 #define SORT_CONSOLE_H
 

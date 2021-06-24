@@ -1,4 +1,3 @@
-// Sort.cpp
 #include "Sort.h"
 
 #include <random>

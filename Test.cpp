@@ -1,4 +1,3 @@
-// Test.cpp
 #include "Test.h"
 
 #include <iostream>
